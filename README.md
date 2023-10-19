@@ -16,7 +16,7 @@
 ## IDE:
 - Android Studio
 # App do projeto:
-- <a href = "/AppCalculadora/app-calculadora-final.apk">download</a>
+- <a href = "https://drive.google.com/file/d/1h2U4s1VvwDimysWszelkpx7d69e4502r/view?usp=share_link">download</a>
 - # Como instalar:
 - 
 # Pré requisitos:
