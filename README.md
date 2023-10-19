@@ -16,8 +16,8 @@
 ## IDE:
 - Android Studio
 # App do projeto:
-- 
-# Como instalar:
+- <a href = "./app-calculadora-final.apk">download</a>
+- # Como instalar:
 - 
 # Pré requisitos:
 - Mínimo: Android 8.0
