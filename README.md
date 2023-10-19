@@ -18,7 +18,7 @@
 # App do projeto:
 - <a href = "https://drive.google.com/file/d/1h2U4s1VvwDimysWszelkpx7d69e4502r/view?usp=share_link">download</a>
 - # Como instalar:
-- 
+- Basta clicar em "download" que se encontra acima. Selecione o 1º email que aparece e instale o app no celular.
 # Pré requisitos:
 - Mínimo: Android 8.0
 # Autores:
