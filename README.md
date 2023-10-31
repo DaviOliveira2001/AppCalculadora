@@ -2,8 +2,7 @@
 1º projeto desenvolvido em mobile.
 
 # Sobre o projeto:
-- Este projeto serviu como uma introdução para mim ao mundo do desenvolvimento mobile.
-- Pude aprender diversos comandos em mobile que inicialmente foram complicados mas estão se tornando familiares.
+- Este app é uma representação de calculadora.
 
 # Layout Mobile:
 <img width=200px src="https://github.com/DaviOliveira2001/AppCalculadora/assets/83030951/a6483675-1b45-4cc6-ba11-f1d3eb0fe8b3" />
